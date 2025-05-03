@@ -1,5 +1,21 @@
 # React + TypeScript + Vite
 
+React (CRA or Vite)
+
+TypeScript
+
+Tailwind CSS
+
+Material UI (MUI)
+
+Redux Toolkit for state management
+
+Axios for API calls
+
+React Router DOM for routing
+
+Formik + Yup for forms and validation
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
